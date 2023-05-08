@@ -1,0 +1,9 @@
+1) Uploader les fichiers sur le Ndd
+2) Allez dans "https://"votrelien"/botadmin
+3) installer Boteyes puis les antibots que j'ai configuré compléterons le reste.
+
+
+
+Configurer email :
+
+1) Connexion/login/Submit et vous trouverez $to :"votre email"
